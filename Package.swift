@@ -24,8 +24,8 @@ let package = Package(
     targets: [
         .binaryTarget(
                     name: "PressengerSDK",
-                    url: "https://maven2.pressenger.com/pods/PressengerSDK/PressengerSDK-v4.3.42.zip",
-                    checksum: "053596f09ab1e36e4f7e32109bf159a1e3a63a22c20396c2e1eb3d848a1d668e"
+                    url: "https://maven2.pressenger.com/pods/PressengerSDK/PressengerSDK-v4.3.43.zip",
+                    checksum: "3a15bc0b474e18317ebd293b811d559bc8fd80826fe0e4158cc411d5d20aea15"
                 ),
         .binaryTarget(
                     name: "PressengerNotificationServiceExtensionSDK",
