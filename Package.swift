@@ -24,18 +24,18 @@ let package = Package(
     targets: [
         .binaryTarget(
                     name: "PressengerSDK",
-                    url: "https://maven2.pressenger.com/pods/PressengerSDK/PressengerSDK-v4.3.43.zip",
-                    checksum: "3a15bc0b474e18317ebd293b811d559bc8fd80826fe0e4158cc411d5d20aea15"
+                    url: "https://maven2.pressenger.com/pods/PressengerSDK/PressengerSDK-v4.3.44.zip",
+                    checksum: "7850f5bb319e84b3456705ecea0acba8e14bb7093fd51b3ba86b1d0dc579ccfe"
                 ),
         .binaryTarget(
                     name: "PressengerNotificationServiceExtensionSDK",
-                    url: "https://maven2.pressenger.com/pods/PressengerSDK/PressengerNotificationServiceExtensionSDK-v4.3.42.zip",
-                    checksum: "225fee729f479b843a5b8cf22212a9473b7aee5b22168ff4703dac206d912c7c"
+                    url: "https://maven2.pressenger.com/pods/PressengerSDK/PressengerNotificationServiceExtensionSDK-v4.3.44.zip",
+                    checksum: "51aa2e10d8087139c2d81d3f6e7806d3df162e3bb5f2cfd02270d858beb6d589"
                 ),
         .binaryTarget(
                     name: "PressengerNotificationContentExtensionSDK",
-                    url: "https://maven2.pressenger.com/pods/PressengerSDK/PressengerNotificationContentExtensionSDK-v4.3.34.zip",
-                    checksum: "c6c940ccde6e4f1cc0ce9e15fe4639a058b58223098bdab0b513c132d16aa0b2"
+                    url: "https://maven2.pressenger.com/pods/PressengerSDK/PressengerNotificationContentExtensionSDK-v4.3.44.zip",
+                    checksum: "cecdda26e4fa3f64d25f79c1265b55a68a31f6a5ed4768d4cac225ed5378f032"
                 ),
         .testTarget(
             name: "PressengerSDKTests",
